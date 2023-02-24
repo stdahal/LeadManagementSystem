@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/view/addLead.jsp</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/model/LeadModel.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/controller/CounsellorController.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/model/LeadRegisterModel.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/model/SemesterModel.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/controller/ReportController.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/model/UserModel.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/controller/AdminController.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/view/LeadsStatusReport.jsp</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/view/cwreport-frm.jsp</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/manager/UserManager.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/view/activeLeads.jsp</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/manager/CounsellorManager.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/view/leadRegister.jsp</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/controller/UserController.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/model/AdminModel.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/manager/ReportManager.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/index.jsp</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/view/adminProfile.jsp</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/manager/AdminManager.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/view/counselorReport.jsp</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/view/addCounselor.jsp</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/model/CounselorReport.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/src/java/com/lead/manager/LeadRegisterManager.java</file>
+            <file>file:/C:/Users/Sushant/Documents/NetBeansProjects/LeadManagement/web/view/counselorProfile.jsp</file>
+        </group>
+    </open-files>
+</project-private>

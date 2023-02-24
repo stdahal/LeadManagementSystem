@@ -1,0 +1,80 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 25, 2014, 12:21:10 PM
+    Author     : Rimal
+*/
+/*
+======================================
+
+======================================
+*/
+.customeLogin{
+    height: 400px;
+    margin-top: 110px;
+}
+/*
+======================================
+make icon of footer portion to cnnter
+======================================
+*/
+#makeCenter{
+    margin-left: 500px; 
+}
+.register_center{
+
+    margin-top: 50px;
+
+}
+.centered-form{
+    margin-top: 60px;
+}
+
+.centered-form .panel{
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+.forgot-form{
+    margin-top: 150px;
+    height: 300px;
+    
+}
+.makeCenter{
+    margin-top: 100px;
+    height:500px;
+    
+}
+.errorColor{
+    font-size: 12px;
+    color:red;
+}
+.makeCenterRecent{
+    margin-top: 100px;
+   height: 100px;
+   margin-left: 800px;
+   width: 540px;
+   position: relative;
+    
+}
+/*.makeSideDonor{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 50px;
+        
+}*/
+.main{
+   width: 1200px;
+    height: 500px;
+}
+.image{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 800px;
+    height: 500px;
+    margin-left: 590px;
+    background-color: rosybrown;
+    
+}
